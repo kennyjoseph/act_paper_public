@@ -1,0 +1,6 @@
+../tmp/DocumentRunner.so
+build/
+*.c
+*.cpp
+data/k_fold_events/
+data/other/final_dep_parse_data.tsv

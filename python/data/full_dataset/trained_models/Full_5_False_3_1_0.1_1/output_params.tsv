@@ -1,0 +1,11 @@
+n_topics	5
+n_iter	200
+p	3
+beta	1
+alpha	1
+psi	1
+s0	0.1
+v0	2
+init_k_unk	10
+init_k_kn	50
+q	1
