@@ -1,0 +1,602 @@
+baby sitter	baby sitter
+brat	brat
+buddy	buddy
+child	child
+follower	follower
+librarian	librarian
+murderer	murderer
+pagan	pagan
+saleslady	saleslady
+suspect	suspect
+yes-man	yes-man
+bully	bully
+businessman	businessman
+chain-smoker	chain-smoker
+competitor	competitor
+father	father
+guest	guest
+handicapped person	handicapped
+heroine	heroine
+old maid	old maid
+pastor	pastor
+pediatrician	pediatrician
+registered nurse	registered nurse
+robber	robber
+schoolgirl	schoolgirl
+shrink	shrink
+companion	companion
+gunman	gunman
+lady-killer	lady-killer
+mouthpiece	mouthpiece
+redhead	redhead
+foreman	foreman
+malingerer	malingerer
+demagogue	demagogue
+assistant	assistant
+beginner	beginner
+clergyman	clergyman
+coach	coach
+firstborn	firstborn
+gynecologist	gynecologist
+half sister	half sister
+house husband	house husband
+illegitimate child	illegitimate child
+mental case	mental case
+organizer	organizer
+receptionist	receptionist
+salesman	salesman
+vip	vip
+womanizer	womanizer
+advisor	advisor
+brunette	brunette
+bum	bum
+heterosexual	heterosexual
+loved one	loved one
+old geezer	old geezer
+pickpocket	pickpocket
+pickup	pickup
+principal	principal
+protester	protester
+skilled worker	skilled worker
+spokesman	spokesman
+superior	superior
+applicant	applicant
+army enlistee	army enlistee
+big brother	big brother
+ex-girlfriend	ex-girlfriend
+hothead	hothead
+son-in-law	son-in-law
+adult	adult
+air force enlistee	air force enlistee
+army officer	army officer
+best friend	best friend
+boy	boy
+enemy	enemy
+executioner	executioner
+feminist	feminist
+girlfriend	girlfriend
+hunk	hunk
+laborer	laborer
+lesbian	lesbian
+lunatic	lunatic
+millionaire	millionaire
+miser	miser
+moron	moron
+nobody	nobody
+opponent	opponent
+patrolman	patrolman
+pimp	pimp
+priest	priest
+racist	racist
+student teacher	student teacher
+sweetheart	sweetheart
+worker	worker
+attorney	attorney
+clock watcher	clock watcher
+coed	coed
+friend	friend
+gossip	gossip
+roommate	roommate
+purchaser	purchaser
+queer	queer
+shop clerk	shop clerk
+alcoholic	alcoholic
+apprentice	apprentice
+celebrity	celebrity
+conservative	conservative
+divorcé	divorcé
+flirt	flirt
+hoodlum	hoodlum
+hostess	hostess
+mama's boy	mama's boy
+mistress	mistress
+patient	patient
+politician	politician
+saint	saint
+sick person	sick person
+sports fan	sports fan
+stepfather	stepfather
+supervisor	supervisor
+survivor	survivor
+teenager	teenager
+troublemaker	troublemaker
+youth	youth
+aide	aide
+client	client
+foe	foe
+native-american	native-american
+quack	quack
+loafer	loafer
+public defender	public defender
+army reservist	army reservist
+invalid	invalid
+masochist	masochist
+pauper	pauper
+malcontent	malcontent
+sadist	sadist
+athlete	athlete
+bride	bride
+bridesmaid	bridesmaid
+call girl	call girl
+citizen	citizen
+criminal	criminal
+defendant	defendant
+family man	family man
+kid	kid
+newlywed	newlywed
+nymphomaniac	nymphomaniac
+pessimist	pessimist
+police officer	police officer
+small businessman	small businessman
+widower	widower
+asian-american	asian-american
+blonde	blonde
+detective	detective
+female	female
+gentleman	gentleman
+hombre	hombre
+little brother	little brother
+man	man
+relative	relative
+shoplifter	shoplifter
+skirt chaser	skirt chaser
+traveler	traveler
+truant	truant
+villain	villain
+grandson	grandson
+gun moll	gun moll
+bridegroom	bridegroom
+bureaucrat	bureaucrat
+windbag	windbag
+agnostic	agnostic
+best man	best man
+bouncer	bouncer
+boyfriend	boyfriend
+co-worker	co-worker
+cousin	cousin
+daughter	daughter
+flight attendant	flight attendant
+foster child	foster child
+foster mother	foster mother
+jerk	jerk
+juror	juror
+know-it-all	know-it-all
+neighbor	neighbor
+neurotic	neurotic
+office boy	office boy
+patriot	patriot
+psychopath	psychopath
+state trooper	state trooper
+subordinate	subordinate
+true love	true love
+vacationer	vacationer
+winner	winner
+woman	woman
+bachelor	bachelor
+homemaker	homemaker
+husband	husband
+murderess	murderess
+racketeer	racketeer
+stuffed shirt	stuffed shirt
+superordinate	superordinate
+hatemonger	hatemonger
+interviewee	interviewee
+aunt	aunt
+baby	baby
+brother	brother
+defense attorney	defense attorney
+devil worshiper	devil worshiper
+doctor	doctor
+entrepreneur	entrepreneur
+grandchild	grandchild
+grandfather	grandfather
+helper	helper
+homosexual	homosexual
+housewife	housewife
+introvert	introvert
+jock	jock
+judge	judge
+lawyer	lawyer
+navy officer	navy officer
+pedestrian	pedestrian
+probationer	probationer
+punk	punk
+sibling	sibling
+teammate	teammate
+whiz kid	whiz kid
+widow	widow
+chum	chum
+hussy	hussy
+lobbyist	lobbyist
+marine corps reservist	marine corps reservist
+rival	rival
+liberal	liberal
+right-winger	right-winger
+convalescent	convalescent
+grind	grind
+abortionist	abortionist
+alumnus	alumnus
+brute	brute
+ex-wife	ex-wife
+fanatic	fanatic
+fiancé	fiancé
+freeloader	freeloader
+genius	genius
+hooker	hooker
+liar	liar
+mobster	mobster
+nark	nark
+nonsmoker	nonsmoker
+schoolmate	schoolmate
+serial murderer	serial murderer
+sheriff	sheriff
+slut	slut
+stoolpigeon	stoolpigeon
+swinger	swinger
+tenant	tenant
+tomboy	tomboy
+voyeur	voyeur
+witness	witness
+anti-semite	anti-semite
+baldy	baldy
+do-nothing	do-nothing
+stepchild	stepchild
+honeymooner	honeymooner
+plainclothesman	plainclothesman
+shopkeeper	shopkeeper
+lecher	lecher
+matriarch	matriarch
+toady	toady
+bisexual	bisexual
+chatterbox	chatterbox
+classmate	classmate
+father in law	father in law
+goof-off	goof-off
+mourner	mourner
+playmate	playmate
+pupil	pupil
+temporary worker	temporary worker
+tutor	tutor
+unemployed person	unemployed person
+victim	victim
+air force reservist	air force reservist
+cop	cop
+daughter-in-law	daughter-in-law
+fbi agent	fbi agent
+pest	pest
+psychiatrist	psychiatrist
+retiree	retiree
+secretary	secretary
+youngster	youngster
+devil	devil
+divorcée	divorcée
+evangelist	evangelist
+marine corps officer	marine corps officer
+priestess	priestess
+protégé	protégé
+spinster	spinster
+tot	tot
+divorce lawyer	divorce lawyer
+half brother	half brother
+jew	jew
+stepsister	stepsister
+adolescent	adolescent
+battered woman	battered woman
+big sister	big sister
+brother-in-law	brother-in-law
+consultant	consultant
+customer	customer
+elder	elder
+employee	employee
+failure	failure
+fiancée	fiancée
+girl	girl
+grouch	grouch
+guy	guy
+handyman	handyman
+lackey	lackey
+little sister	little sister
+loser	loser
+maniac	maniac
+mother	mother
+passerby	passerby
+professor	professor
+prosecuting attorney	prosecuting attorney
+scientist	scientist
+shopper	shopper
+stepparent	stepparent
+stud	stud
+traitor	traitor
+uncle	uncle
+university student	university student
+half-wit	half-wit
+nut	nut
+novice	novice
+strike breaker	strike breaker
+afro-american	afro-american
+boozer	boozer
+catholic	catholic
+child molester	child molester
+crook	crook
+date	date
+dummy	dummy
+ex-husband	ex-husband
+grandmother	grandmother
+hispanic-american	hispanic-american
+host	host
+lecturer	lecturer
+orphan	orphan
+pornographer	pornographer
+practical nurse	practical nurse
+rabbi	rabbi
+right-hand man	right-hand man
+santaclaus	santaclaus
+senior citizen	senior citizen
+tease	tease
+thug	thug
+toddler	toddler
+visitor	visitor
+wife	wife
+dyke	dyke
+innocent	innocent
+intimate	intimate
+niece	niece
+psychotic	psychotic
+stepdaughter	stepdaughter
+confidant	confidant
+parolee	parolee
+sexist	sexist
+colleague	colleague
+critic	critic
+deadbeat dad	deadbeat dad
+dropout	dropout
+ex-boyfriend	ex-boyfriend
+grownup	grownup
+hero	hero
+houseguest	houseguest
+infant	infant
+instructor	instructor
+leader	leader
+male	male
+marine corps enlistee	marine corps enlistee
+navy enlistee	navy enlistee
+old-timer	old-timer
+pal	pal
+role model	role model
+salesclerk	salesclerk
+schoolteacher	schoolteacher
+smoker	smoker
+stranger	stranger
+underachiever	underachiever
+voter	voter
+waitress	waitress
+born-again christian	born-again christian
+capitalist	capitalist
+informer	informer
+workman	workman
+workmate	workmate
+merchant	merchant
+vigilante	vigilante
+tyke	tyke
+sawbones	sawbones
+big shot	big shot
+computer expert	computer expert
+girl friday	girl friday
+graduate student	graduate student
+grandparent	grandparent
+great grandfather	great grandfather
+intern	intern
+lady	lady
+manager	manager
+negotiator	negotiator
+outlaw	outlaw
+paranoid	paranoid
+preacher	preacher
+prostitute	prostitute
+rapist	rapist
+scrooge	scrooge
+soul mate	soul mate
+supporter	supporter
+teacher	teacher
+trainee	trainee
+wife abuser	wife abuser
+bootlicker	bootlicker
+employer	employer
+felon	felon
+granddaughter	granddaughter
+server	server
+son	son
+stepbrother	stepbrother
+stepmother	stepmother
+stepson	stepson
+surgeon	surgeon
+whore	whore
+has-been	has-been
+adulteress	adulteress
+air force officer	air force officer
+businesswoman	businesswoman
+champion	champion
+extrovert	extrovert
+gangster	gangster
+god	god
+head nurse	head nurse
+healer	healer
+insider	insider
+interviewer	interviewer
+opportunist	opportunist
+parent	parent
+physician	physician
+protestant	protestant
+schizophrenic	schizophrenic
+sister-in-law	sister-in-law
+strike leader	strike leader
+student	student
+terrorist	terrorist
+undergraduate	undergraduate
+waiter	waiter
+egghead	egghead
+gigolo	gigolo
+hotshot	hotshot
+klutz	klutz
+mugger	mugger
+private eye	private eye
+white supremacist	white supremacist
+delinquent	delinquent
+gay	gay
+steady	steady
+manageress	manageress
+adulterer	adulterer
+disciplinarian	disciplinarian
+drunk	drunk
+executive	executive
+idiot	idiot
+navy reservist	navy reservist
+partner	partner
+scholar	scholar
+schoolboy	schoolboy
+underdog	underdog
+authority	authority
+bore	bore
+boss	boss
+district attorney	district attorney
+foster father	foster father
+great grandmother	great grandmother
+minister	minister
+mother-in-law	mother-in-law
+nephew	nephew
+nurse	nurse
+questioner	questioner
+sinner	sinner
+sister	sister
+spokeswoman	spokeswoman
+spouse	spouse
+taxpayer	taxpayer
+atheist	atheist
+blind date	blind date
+union member	union member
+ignoramus	ignoramus
+flunky	flunky
+spendthrift	spendthrift
+sponger	sponger
+0	gunman
+0	enemy
+0	terrorist
+0	father
+0	palestinian
+0	netanyahu
+0	obama
+0	activist
+0	soldier
+0	daughter
+0	woman
+0	officer
+0	israel
+0	iranians
+0	muslims
+0	militant
+0	wife
+0	policeman
+0	u.s.
+0	police
+0	islamists
+0	iraq
+0	guard
+0	judge
+0	iran
+0	bush
+0	syria
+0	regime
+0	criminal
+0	israeli
+0	child
+0	murderer
+0	insurgent
+0	mother
+0	abbas
+0	army
+0	washington
+0	libya
+0	ally
+0	killer
+0	taliban
+0	rebel
+0	democrat
+0	administration
+0	iraqis
+0	assange
+0	attacker
+0	china
+0	republican
+0	jerusalem
+0	thug
+0	scientist
+0	sniper
+0	barak
+0	laden
+0	protester
+0	jews
+0	tehran
+0	husband
+0	dictator
+0	king
+0	militia
+0	militiaman
+0	politician
+0	athlete
+0	al-qaeda
+0	expert
+0	civilian
+0	hero
+0	extremist
+0	taleban
+0	mccain
+0	assad
+0	teacher
+0	al-assad
+0	sister
+0	pentagon
+0	christian
+0	sunni
+0	youth
+0	refugee
+0	smuggler
+0	teenager
+0	mercenary
+0	tunisia
+0	pirate
+0	reporter
+0	protestor
+0	thief
+0	gaddafi
+0	al-qadhafi
+0	prisoner
+0	migrant
+0	qaddafi
+0	gadhafi
+0	libyans
+0	revolutionary
+0	italy
+0	al-asad
+0	baby
+0	hostage
+0	morsi

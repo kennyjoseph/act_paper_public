@@ -1,0 +1,588 @@
+caution	caution
+entertain	entertain
+fondle	fondle
+glorify	glorify
+jest with	jest
+parody	parody
+plead with	plead
+pray with	pray with
+promise something	promise
+shake hands with	shake hands
+shout at	shout at
+tell off	tell off
+victimize	victimize
+baby	baby
+bargain with	bargain
+be intimate with	be intimate
+be sarcastic toward	be sarcastic toward
+borrow money from	borrow money from
+compliment	compliment
+defeat	defeat
+glare at	glare at
+hail	hail
+have sex with	sex
+horse around with	horse around
+reward	reward
+barter with	barter
+distract	distract
+serenade	serenade
+turn	turn
+bed	bed
+berate	berate
+grapple with	grapple
+quibble with	quibble
+banter with	banter
+baptize	baptize
+brown-nose	brown-nose
+bully	bully
+chat up	chat up
+chitchat with	chitchat
+glance at	glance at
+glower at	glower at
+heal	heal
+hire	hire
+hush	hush
+lead	lead
+place order with	place order
+pooh pooh	pooh pooh
+quarrel with	quarrel
+reason with	reason with
+reply	reply
+ridicule	ridicule
+touch	touch
+whip	whip
+accuse	accuse
+back	back
+compete with	compete
+compromise with	compromise
+disagree with	disagree
+hound	hound
+instruct	instruct
+lay-off from job	lay-off from job
+restrain	restrain
+serve	serve
+squeeze	squeeze
+suck up to	suck up to
+disrobe	disrobe
+ask out	ask out
+beat up	beat up
+bow to	bow
+dress	dress
+gossip with	gossip
+indoctrinate	indoctrinate
+inject with medicine	inject with medicine
+kick	kick
+knife	knife
+laugh with	laugh
+nag	nag
+obey	obey
+overwhelm	overwhelm
+overwork	overwork
+play with	play with
+put to bed	put to bed
+scold	scold
+stare at	stare at
+submit to	submit to
+talk down to	talk down
+talk to	talk
+wash	wash
+brutalize	brutalize
+kid	kid
+mumble to	mumble
+obstruct	obstruct
+order	order
+peep at	peep at
+study	study
+surprise	surprise
+bellow at	bellow at
+blabber to	blabber
+chat with	chat
+applaud	applaud
+attend to	attend
+beg	beg
+bite	bite
+bribe	bribe
+capture	capture
+concur with	concur
+confide in	confide in
+cuddle	cuddle
+degrade	degrade
+exploit	exploit
+flatter	flatter
+grin at	grin at
+inform	inform
+listen to	listen
+make fun of	make fun of
+malign	malign
+mimic	mimic
+remind	remind
+scrutinize	scrutinize
+sell something to	sell
+shove	shove
+silence	silence
+stop	stop
+sympathize with	sympathize
+threaten	threaten
+wheedle	wheedle
+condemn	condemn
+haggle with	haggle
+undress	undress
+bind	bind
+deride	deride
+denigrate	denigrate
+assist	assist
+cuss	cuss
+employ	employ
+fib to	fib
+grade	grade
+groom	groom
+make out with	make out
+overpower	overpower
+quiz	quiz
+smile at	smile at
+snuggle	snuggle
+take hold of	take hold of
+warn	warn
+address	address
+admonish	admonish
+bootlick	bootlick
+chase	chase
+dare	dare
+face	face
+fuss over	fuss over
+handcuff	handcuff
+monitor	monitor
+murmur to	murmur
+rant at	rant at
+sit next to	sit next to
+walk out on	walk out on
+cross-examine	cross-examine
+tackle	tackle
+upbraid	upbraid
+leer at	leer at
+work	work
+curry favor from	curry favor from
+implore	implore
+abuse	abuse
+answer	answer
+badger	badger
+bash	bash
+caress	caress
+catch	catch
+confront	confront
+defend	defend
+encourage	encourage
+give instructions to	give instructions
+hurry	hurry
+hurt	hurt
+interrogate	interrogate
+interview	interview
+look away from	look away from
+make up with	make up
+marry	marry
+ogle	ogle
+penalize	penalize
+ravish	ravish
+rescue	rescue
+share something with	share
+train	train
+underpay	underpay
+club	club
+dress down	dress down
+kill	kill
+sentence	sentence
+contemplate	contemplate
+nestle	nestle
+rape	rape
+strip	strip
+rouse	rouse
+cheat on	cheat on
+comfort	comfort
+command	command
+damn	damn
+debate with	debate
+defer to	defer
+direct	direct
+fine	fine
+harm	harm
+hassle	hassle
+hit	hit
+injure	injure
+lecture	lecture
+molest	molest
+pay for	pay for
+poke fun at	poke fun at
+praise	praise
+prosecute	prosecute
+protect	protect
+seduce	seduce
+sleep with	sleep with
+strangle	strangle
+sue	sue
+browbeat	browbeat
+chew out	chew out
+flee	flee
+halt	halt
+prompt	prompt
+salute	salute
+drone on at	drone on at
+pet	pet
+cue	cue
+reproach	reproach
+blame	blame
+boss around	boss around
+chide	chide
+consult with	consult
+debrief	debrief
+discuss something with	discuss
+feed something to	feed
+financially back	financially back
+flunk	flunk
+gaze at	gaze at
+giggle with	giggle
+holler at	holler at
+hug	hug
+imprison	imprison
+inspect	inspect
+laud	laud
+leave	leave
+make love to	make love to
+negotiate with	negotiate
+pay for something	pay for
+photograph	photograph
+point at	point at
+prod	prod
+reassure	reassure
+sexually arouse	sexually arouse
+teach	teach
+draw near to	draw near
+hand something to	hand
+make eyes at	make eyes at
+mock	mock
+tell something to	tell
+rebuff	rebuff
+extol	extol
+accommodate	accommodate
+apologize to	apologize
+assault	assault
+babble to	babble
+care for	care for
+challenge	challenge
+cheat	cheat
+convict	convict
+curse	curse
+escape	escape
+fight	fight
+fire from job	fire from job
+follow	follow
+giggle at	giggle at
+hoot at	hoot at
+laugh at	laugh at
+request something from	request
+sexually proposition	sexually proposition
+short-change	short-change
+stare down	stare down
+torment	torment
+torture	torture
+treat	treat
+belittle	belittle
+desire sexually	desire sexually
+grasp	grasp
+peek at	peek at
+seize	seize
+spank	spank
+coerce	coerce
+jeer at	jeer at
+joggle	joggle
+rib	rib
+abandon	abandon
+analyze	analyze
+booze with	booze
+brawl with	brawl
+choke	choke
+collaborate with	collaborate
+congratulate	congratulate
+correct	correct
+criticize	criticize
+disobey	disobey
+eat with	eat with
+execute	execute
+eye	eye
+forget	forget
+gyp	gyp
+heckle	heckle
+hold	hold
+join up with	join up
+lie to	lie
+nudge	nudge
+nuzzle	nuzzle
+observe	observe
+poke	poke
+question	question
+retaliate against	retaliate against
+show something to	show
+sneer at	sneer at
+supervise	supervise
+rebuke	rebuke
+toast	toast
+beam at	beam at
+josh	josh
+beckon to	beckon
+advise	advise
+argue with	argue
+arrest	arrest
+cheer	cheer
+console	console
+conspire with	conspire
+discourage	discourage
+drink with	drink with
+educate	educate
+examine	examine
+interrupt	interrupt
+kiss	kiss
+mug	mug
+murder	murder
+pursue	pursue
+raise the pay of	raise the pay of
+scratch	scratch
+shoot	shoot
+tease	tease
+test	test
+thank	thank
+urge on	urge on
+wait on	wait on
+yield to	yield to
+confine	confine
+pull away from	pull away from
+smirk at	smirk at
+sound out	sound out
+talk shop with	talk shop
+gape at	gape at
+query	query
+subdue	subdue
+exonerate	exonerate
+disparage	disparage
+agree with	agree with
+bicker with	bicker
+cling to	cling
+dance with	dance
+denounce	denounce
+deny something to	deny
+divorce	divorce
+drink to	drink to
+elbow	elbow
+embrace	embrace
+excuse	excuse
+give raise	give raise
+lust for	lust for
+march with	march
+massage	massage
+pinch	pinch
+reform	reform
+rehabilitate	rehabilitate
+save	save
+search	search
+slap	slap
+soothe	soothe
+stroke	stroke
+bawl-out	bawl-out
+compensate	compensate
+confer with	confer
+combat	combat
+deprecate	deprecate
+mind	mind
+assail	assail
+beseech	beseech
+exalt	exalt
+entreat	entreat
+toady to	toady to
+ask about something	ask about
+cut the pay of	cut the pay of
+defy	defy
+dine with	dine with
+discipline	discipline
+explain something to	explain
+give medical treatment to	give medical treatment
+imitate	imitate
+insult	insult
+joke with	joke
+look at	look at
+make business proposal to	make business proposal
+mother	mother
+neglect	neglect
+propose marriage to	propose marriage
+reprimand	reprimand
+scream at	scream at
+sing to	sing
+stab	stab
+suggest something to	suggest
+yell at	yell at
+brief	brief
+contradict	contradict
+dote on	dote on
+frisk	frisk
+gawk at	gawk at
+grouse at	grouse at
+knock out	knock out
+pester	pester
+renounce	renounce
+snarl at	snarl at
+chastise	chastise
+slug	slug
+jail	jail
+approach	approach
+attack	attack
+cheer up	cheer up
+counsel	counsel
+flirt with	flirt
+forgive	forgive
+help	help
+ignore	ignore
+lunch with	lunch with
+push	push
+rob	rob
+say farewell to	say farewell
+shush	shush
+steal from	steal from
+watch	watch
+welcome	welcome
+whisper to	whisper
+wrestle with	wrestle
+chatter to	chatter
+demote	demote
+fingerprint	fingerprint
+incarcerate	incarcerate
+incriminate	incriminate
+medicate	medicate
+mouth off to	mouth off
+overcharge	overcharge
+pamper	pamper
+scoff at	scoff at
+scowl at	scowl at
+wink at	wink at
+fornicate with	fornicate
+dissuade	dissuade
+cajole	cajole
+dicker with	dicker with
+aid	aid
+amuse	amuse
+coach	coach
+converse with	converse
+demesomeone	demesomeone
+frown at	frown at
+greet	greet
+guide	guide
+harass	harass
+lend money to	lend money
+oppose	oppose
+punch	punch
+punish	punish
+speak to	speak
+tickle	tickle
+transact business with	transact business
+whine	whine
+appeal to	appeal
+bathe	bathe
+bill	bill
+bless	bless
+confess to	confess
+grab	grab
+kowtow to	kowtow to
+quiet	quiet
+sock	sock
+apprehend	apprehend
+tug	tug
+jostle	jostle
+needle	needle
+rough-house with	rough-house
+stammer at	stammer at
+coddle	coddle
+harangue	harangue
+0 	kill
+0 	assassinate
+0 	treat
+0 	fight
+0 	praise
+0 	encourage
+0 	give
+0 	help
+0 	flee
+0 	target
+0 	take
+0 	lose
+0 	oppose
+0 	defeat
+0 	face
+0 	reassure
+0 	defend
+0 	assault
+0 	confront
+0 	rescue
+0 	shoot
+0 	challenge
+0 	expect
+0 	seize
+0 	leave
+0 	send
+0 	support
+0 	address
+0 	order
+0 	warn
+0 	save
+0 	attack
+0 	threaten
+0 	visit
+0 	accuse
+0 	blame
+0 	raise
+0 	assist
+0 	chase
+0 	capture
+0 	see
+0 	criticize
+0 	murder
+0 	stop
+0 	release
+0 	aid
+0 	arrest
+0 	execute
+0 	protect
+0 	push
+0 	join
+0 	welcome
+0 	bring
+0 	abandon
+0 	disperse
+0 	pursue
+0 	hire
+0 	follow
+0 	rape
+0 	back
+0 	defy
+0 	detain
+0 	marry
+0 	train
+0 	punish
+0 	ask
+0 	denounce
+0 	advise
+0 	hit
+0 	urge
+0 	thank
+0 	lead
+0 	condemn
+0 	allow
+0 	love
+0 	kidnap
+0 	congratulate
+0 	prevent
+0 	beat
+0 	force
+0 	succeed
+0 	inform
+0 	rule
+0 	embrace
+0 	battle
+0 	infiltrate
+0 	topple
+
