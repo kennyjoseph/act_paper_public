@@ -10,7 +10,7 @@ sys.path.append(os.path.join(cmd_folder,"../"))
 from initialize_functions import *
 from functions import *
 from deflection import *
-from utility import tab_stringify_newline
+from utility import *
 import numpy as np
 from array import array
 import os

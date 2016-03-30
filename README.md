@@ -15,7 +15,7 @@ This code base and the documentation will evolve over time, but right now you ne
 3. Extract k_fold_tmp_test
 
 4. In the python/src directory, you have to build the cython extensions using:
-```python setup.py build_ext --install```
+```python setup.py build_ext --inplace```
 
 The full dependency parse data is too big to put on github, but its available [here](https://www.dropbox.com/s/tbzrgwrvqcdx9nz/dep_parse_all.tsv?dl=0).  This is essentially the output of the java code (after cat'ing all of the results for each article together). Its then handled by ```handle_dep_parse.R``` to generate the data used by the python model. To run the python models, simply go into the python/src directory and run ```python results.py``` (after doing the steps above) and then ```python run_best_model.py```. If that doesn't work, check all paths are correct. If THAT doesn't work, email me!
 

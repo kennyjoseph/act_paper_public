@@ -7,11 +7,8 @@ from multiprocessing.managers import SyncManager
 
 import numpy as np
 
-from analysis_methods import FullModel, UnigramModel, BigramModel, SimpleACT
-
-from initialize_functions import get_docs
+from analysis_methods import FullModel
 from functions import set_srand
-import utility
 
 
 top_dir = "/Users/kjoseph/git/thesis/act_paper/python/"
