@@ -21,6 +21,22 @@ The full dependency parse data is too big to put on github, but its available [h
 
 All plots generated in the paper are created in ```gen_results.R```.
 
+Citation
+========
+
+If you use this code, please cite our JMS article!
+
+```
+@article{joseph2016social,
+  title={A social-event based approach to sentiment analysis of identities and behaviors in text},
+  author={Joseph, Kenneth and Wei, Wei and Benigni, Matthew and Carley, Kathleen M},
+  journal={The Journal of Mathematical Sociology},
+  pages={1--30},
+  year={2016},
+  publisher={Routledge}
+}
+
+```
 
 License
 =========
